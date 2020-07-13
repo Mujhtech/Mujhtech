@@ -1,14 +1,24 @@
-### Hi there 👋
+[![Hello 👋🏻](https://res.cloudinary.com/dgqdvqyz3/image/upload/f_auto,q_100/v1594274395/social-media/gh-banner.jpg)](https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan)
 
-**Mujhtech/Mujhtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi. I’m Mujeeb Mujhtech Muhideen. I am a Junior Web Developer from Nigeria.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My Skills 👋
+
+- Php
+- Codeigniter
+- Laravel
+- WordPress
+- SQL(MySQl)
+- ReactJS
+- Redux
+- Vue (Beginner)
+- Vuex (Beginner)
+
+## My Project 👋
+
+- [CryptoBoostNetwork](https://cryptoboost.network)
+- [Fortunate Model School](https://fmsoyo.com.ng)
+- [KefraNaija](https://kefranaija.com.ng)
+- [Vibes4360](https://vibes4360.com)
+- And Many others
