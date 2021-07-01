@@ -4,4 +4,4 @@ Passionate Backend Developer with 3+ years experience developing web application
 
 ## Buy me a coffee
 
-<a href="https://www.buymeacoffee.com/Mujhtech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Mujhtech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 120px !important;" ></a>
