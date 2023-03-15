@@ -1,5 +1,6 @@
-Hi. I’m Mujeeb Mujhtech Muhideen. I am a Software Developer from Nigeria.
-Passionate Backend Developer with 3+ years experience developing web application and API using Php (Laravel/Codeigniter), Mobile App (Flutter) and WordPress. Looking to join your development team where my skills will be utilized in the design of scalable, data-driven, modular products that can be adapted to meet changing business requirements.
+<h1 align="center">Hi 👋, I'm Tolulope Fakunle.</h1>
+
+I am a Software Developer from Nigeria. Passionate Backend Developer with 3+ years experience developing web application and API using Php (Laravel/Codeigniter), Mobile App (Flutter) and WordPress. Looking to join your development team where my skills will be utilized in the design of scalable, data-driven, modular products that can be adapted to meet changing business requirements.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujhtech&label=Profile%20views&color=0e75b6&style=flat" alt="mujhtech" /> </p>
 
