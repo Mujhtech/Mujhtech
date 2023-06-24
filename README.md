@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhideen Mujeeb Adeoye.</h1>
 
-I am a Software Developer from Nigeria. Passionate Backend Developer with 3+ years experience developing web application and API using Php (Laravel/Codeigniter), Mobile App (Flutter) and WordPress. Looking to join your development team where my skills will be utilized in the design of scalable, data-driven, modular products that can be adapted to meet changing business requirements.
+I am a tech-savvy and goal-oriented developer dedicated to helping organizations thrive. I am driven and motivated to deliver results. I excel at prioritizing and completing tasks both independently and as part of a team. With my broad knowledge and experience working with various technologies, I am well-equipped to tackle diverse challenges and contribute effectively to projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujhtech&label=Profile%20views&color=0e75b6&style=flat" alt="mujhtech" /> </p>
 
@@ -18,4 +18,4 @@ I am a Software Developer from Nigeria. Passionate Backend Developer with 3+ yea
 
 ## Buy me a coffee
 
-<a href="https://www.buymeacoffee.com/Mujhtech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 120px !important;" ></a>
+<a href="https://giftapp.com/mujhtech" target="_blank"><img src="./giftapp.png" alt="Buy Me A Gift" style="height: 20px !important;width: 120px !important;" ></a>
