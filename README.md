@@ -16,6 +16,6 @@ I am a tech-savvy and goal-oriented developer dedicated to helping organizations
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujhtech&" alt="mujhtech" /></p>
 
 
-## Buy me a coffee
+## Buy me a gift
 
 <a href="https://giftapp.com/mujhtech" target="_blank"><img src="./giftapp.png" alt="Buy Me A Gift" style="width: 120px !important;" ></a>
