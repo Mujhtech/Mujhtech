@@ -18,4 +18,4 @@ I am a tech-savvy and goal-oriented developer dedicated to helping organizations
 
 ## Buy me a coffee
 
-<a href="https://giftapp.com/mujhtech" target="_blank"><img src="./giftapp.png" alt="Buy Me A Gift" style="height: 20px !important;width: 120px !important;" ></a>
+<a href="https://giftapp.com/mujhtech" target="_blank"><img src="./giftapp.png" alt="Buy Me A Gift" style="width: 120px !important;" ></a>
