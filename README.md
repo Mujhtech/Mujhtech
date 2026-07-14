@@ -1,4 +1,66 @@
-<h1 align="center">Hi 👋, I'm Muhideen Mujeeb Adeoye.</h1>
+# Mujeeb Muhideen
+
+**Software Engineer — Backend Systems, AI Platforms & Developer Infrastructure**
+
+I design and ship production software using Go and TypeScript. My experience spans API platforms, fintech systems, AI-powered applications, asynchronous processing, cloud infrastructure, developer tooling, and full-stack product development.
+
+I enjoy building reliable systems that simplify complex infrastructure through clear APIs, thoughtful abstractions, and strong developer experience.
+
+**Based in Nigeria · Open to international relocation**
+
+[Portfolio](https://www.mujhtech.fyi) ·
+[LinkedIn](https://www.linkedin.com/in/mujeeb-muhideen/) ·
+[Email](mailto:mujeeb.muhideen@gmail.com)
+
+## Selected production impact
+
+- At Swerv, I was one of two engineers responsible for building and operating an embedded-finance platform across backend services, cloud infrastructure, partner APIs, web dashboards, and mobile applications.
+- Designed public REST APIs used by nearly 20 partner businesses to integrate payments, virtual accounts, virtual cards, and other financial services.
+- Built platform capabilities covering wallets, ledger operations, transaction history, reconciliation, internal KYC, webhook delivery, OAuth, and asynchronous processing with Redis and Asynq.
+- Developed Swerv's Flutter consumer application, which reached approximately 100,000 downloads across iOS and Android.
+- At Tempo Labs, delivered AI-powered products for startup clients, including a server-side AI gateway that kept provider credentials and orchestration out of frontend applications while centralizing streaming and response handling.
+
+## Open source
+
+### [PGStream](https://github.com/Mujhtech/pgstream)
+
+An early-stage MySQL-to-PostgreSQL migration CLI written in Go for databases that are too large to load into memory. It supports bounded-memory copying, resumable migrations, schema conversion, persistent progress, and fail-closed handling of unsafe database differences.
+
+`Go` · `MySQL` · `PostgreSQL` · `SQLite` · `Database Migration`
+
+### [S3ase](https://github.com/Mujhtech/s3ase)
+
+An open-source file-management platform for S3-compatible object storage. It provides a Go API and Remix dashboard for managing files, applications, API keys, members, webhooks, custom domains, and resumable uploads across AWS S3 and Cloudflare R2.
+
+`Go` · `Chi` · `PostgreSQL` · `Redis` · `Asynq` · `Remix` · `S3/R2`
+
+### [Dagryn](https://github.com/Mujhtech/dagryn)
+
+A local-first, self-hosted developer workflow orchestrator built around explicit task graphs. Dagryn provides deterministic execution, dependency-aware scheduling, input-based caching, parallel tasks, and consistent behavior across local development and CI.
+
+`Go` · `DAG Scheduling` · `Workflow Orchestration` · `Developer Tooling`
+
+## Technical focus
+
+- **Backend:** Go, TypeScript, NestJS, Hono, REST APIs, OAuth, webhooks, SSE
+- **Data and asynchronous systems:** PostgreSQL, MySQL, Redis, Asynq, Supabase
+- **Cloud and infrastructure:** AWS, Google Cloud, Vercel, Docker, GitHub Actions, S3-compatible storage
+- **Web and mobile:** React, Next.js, Remix, TanStack, Tailwind CSS, Flutter
+- **AI:** OpenAI, Vercel AI Gateway, streaming responses, server-side LLM integrations
+
+## Speaking
+
+Invited speaker at **DevFest (2022–2025)** and **Google I/O Extended (2021–2023)**, presenting on Flutter, developer tooling, mobile engineering, and modern software development.
+
+## What I’m interested in
+
+Backend, platform, infrastructure, developer-tooling, and full-stack engineering opportunities where I can design systems, own production software, and help products grow from architecture through deployment.
+
+
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Muhideen Mujeeb Adeoye.</h1>
 
 I am a tech-savvy and goal-oriented developer dedicated to helping organizations thrive. I am driven and motivated to deliver results. I excel at prioritizing and completing tasks both independently and as part of a team. With my broad knowledge and experience working with various technologies, I am well-equipped to tackle diverse challenges and contribute effectively to projects.
 
@@ -26,4 +88,4 @@ I am a tech-savvy and goal-oriented developer dedicated to helping organizations
 
 ## Buy me a gift
 
-<a href="https://giftapp.com/mujhtech" target="_blank"><img src="./giftapp.png" alt="Buy Me A Gift" style="width: 120px !important;" ></a>
+<a href="https://giftapp.com/mujhtech" target="_blank"><img src="./giftapp.png" alt="Buy Me A Gift" style="width: 120px !important;" ></a> -->
