@@ -24,9 +24,9 @@ I enjoy building reliable systems that simplify complex infrastructure through c
 
 ### [PGStream](https://github.com/Mujhtech/pgstream)
 
-An early-stage MySQL-to-PostgreSQL migration CLI written in Go for databases that are too large to load into memory. It supports bounded-memory copying, resumable migrations, schema conversion, persistent progress, and fail-closed handling of unsafe database differences.
+A Go tool that migrates large MySQL databases to PostgreSQL — COPY loading from consistent snapshots, resumable checkpoints, data-driven type conversion, dry-run planning with data-quality scans, and a live web UI. Proven against a real 83-table production database: 8.5 million rows migrated end to end in about ten minutes with zero manual intervention.
 
-`Go` · `MySQL` · `PostgreSQL` · `SQLite` · `Database Migration`
+`Go` · `MySQL` · `PostgreSQL` · `Database Migration`
 
 ### [S3ase](https://github.com/Mujhtech/s3ase)
 
