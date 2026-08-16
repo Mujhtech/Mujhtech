@@ -8,7 +8,7 @@ I enjoy building reliable systems that simplify complex infrastructure through c
 
 **Based in Nigeria · Open to international relocation**
 
-[Portfolio](https://www.mujhtech.fyi) ·
+[Portfolio](https://mujhtech.fyi) ·
 [LinkedIn](https://www.linkedin.com/in/mujeeb-muhideen/) ·
 [Email](mailto:mujeeb.muhideen@gmail.com)
 
